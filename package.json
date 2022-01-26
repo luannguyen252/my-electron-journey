@@ -11,7 +11,10 @@
     "publish": "electron-forge publish",
     "lint": "eslint --ext .ts,.tsx ."
   },
-  "keywords": [],
+  "keywords": [
+    "electron",
+    "typescript"
+  ],
   "author": {
     "name": "Luan Nguyen",
     "email": "design.luannguyen@gmail.com"

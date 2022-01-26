@@ -2,16 +2,8 @@
 
 > The source about design and code with Electron.
 
-- [Electron Forge](https://www.electronforge.io/)
-- [Electron](https://www.electronjs.org/)
-
-## Get Started
+- [Electron TypeScript](https://www.electronforge.io/templates/typescript-template)
 
 ```bash
-# 1.
-npx create-electron-app <project_name> --template=typescript-webpack
-# 2.
-cd <project_name>
-# 3.
-npm start
+npx create-electron-app my-new-app --template=typescript
 ```
